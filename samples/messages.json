@@ -1,0 +1,10 @@
+[
+  {
+    "_id": "sesam1",
+    "msg": "Hello world!"
+  },
+  {
+    "_id": "sesam2",
+    "msg": "sesam.io was here"
+  }
+]
